@@ -1,0 +1,3 @@
+125;Antigone;Sophocle;441;tragedie;emprunté
+123;Les mésirables;Victor Hugo;1962;Roman;disponible
+134;Le petit prince;Antoine;1943;Conte;emprunté
