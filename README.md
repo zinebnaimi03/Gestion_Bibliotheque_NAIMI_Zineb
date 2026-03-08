@@ -1,5 +1,4 @@
 -- Projet Gestion Bibliothèque:
--Non Prénom: NAIMI Zineb
 -Description:
 Une application de bureau en Python pour gérer une bibliothèque : gestion des livres, des membres, emprunts/retours, et statistiques.
 -Guide d'installation:
